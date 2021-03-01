@@ -1,8 +1,14 @@
-## :warning: Work in progress
+<!DOCTYPE html>
 
-## Zeen Lam
+<h1 align = "center">Zeen Lam</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/zeen-lam/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+  
+## About Me
+Recent graduate of the prestigious Bootcamp Makers. My passion for coding began once I had taken a couple of beginner courses in coding to be sure of my next career move. Makers Academy has accelerated my learning and has provided me with the tools and knowledge required to pursue my goals within the tech industry. 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A keen ambitious programmer aiming to provide a level head, drive and energy to a company with a supportive learning environment. Currently on the lookout for a full stack developer role working with interesting colleagues and new technologies.
 
 ## Projects
 
