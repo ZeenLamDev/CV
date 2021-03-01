@@ -15,7 +15,7 @@ A keen ambitious programmer aiming to provide a level head, drive and energy to 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Recipy](https://github.com/AJSMonty/Recipy) | A recipy webapp filtered by ingredients that you have in your fridge (10 Days) | MongoDB, Express, React, NodeJS, Webscraper |
-| [Maker's Bnb](https://github.com/ZeenLamDev/MakersBnB) | AirBnB Clone (10 Days) | Ruby-On-Rails, ReactJS, PSQL |
+| [AceBook](https://github.com/Will-Helliwell/acebook-on-the-rails) | Facebook Clone (10 Days) | Ruby-On-Rails, React, PSQL, TravisCI, Heroku |
 | [Thermostat](https://github.com/ZeenLamDev/theremostatchallenge) | An interactive thermostat with counter function (5 Days) | HTML5, CSS3, Vanilla JavaScript, JQuery |
 | [Ecommerce](https://github.com/ZeenLamDev/shop) | A Clothing Ecommerce webapp (Personal Project) | Firebase, React, Redux, SCSS |
 | [Blog](https://github.com/ZeenLamDev/Blog) | A Blog Webapp (CRUD Personal Project) | React, React Hooks |
