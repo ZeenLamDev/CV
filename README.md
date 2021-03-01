@@ -14,8 +14,12 @@ A keen ambitious programmer aiming to provide a level head, drive and energy to 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Recipy](https://github.com/AJSMonty/Recipy) | A recipy webapp filtered by ingredients that you have in your fridge (10 Days) | MongoDB, Express, React, NodeJS, Webscraper |
+| [Maker's Bnb](https://github.com/ZeenLamDev/MakersBnB) | AirBnB Clone (10 Days) | Ruby-On-Rails, ReactJS, PSQL |
+| [Thermostat](https://github.com/ZeenLamDev/theremostatchallenge) | An interactive thermostat with counter function (5 Days) | HTML5, CSS3, Vanilla JavaScript, JQuery |
+| [Ecommerce](https://github.com/ZeenLamDev/shop) | A Clothing Ecommerce webapp (Personal Project) | Firebase, React, Redux, SCSS |
+| [Blog](https://github.com/ZeenLamDev/Blog) | A Blog Webapp (CRUD Personal Project) | React, React Hooks |
+
 
 ## Experience
 
@@ -33,40 +37,33 @@ _Your job title_
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+## Skills 
 
-- Experience
-- Achievements
-- Evidence
+- **Self Starter** - The most important skill picked up during my time at Makers is being **self sufficient** in starting new projects. Knowing how to implement user requirements with planning/diagramming and TDD has helped further my programming knowledge. My skill has been further developed by spending my weekends on solo challenges set by Makers with minimal instructions. I particularly enjoyed the Rock, paper, scissors game I created following the **MVC** structure based on Ruby. It was our first foray into web development and It was super interesting writing the logic for the game and having it visually represented on a browser.
+<br>
 
-#### Another Skill
+- **Communication** - Equally adept at working by myself and **teamworking**, one of my previous roles was a bar manager. managing the bar team as well as the waiters/waitresses. Overseeing the daily operations of the restaurant & communicating to the team to ensure a smooth and efficient service for the team and guests.
+<br>
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- **Flexible** - I am open to switching roles, learning new skills/technologies and ways of working. I switched from an overseas sales position to a more technical operational role to gain a better understanding of behind the scenes. In that sense Makers has been a good fit for me as I'm keen on new challenges, pushing myself and taking the **initiative** in my own learning.
 
 ## Education
 
 #### Makers Academy (November 2020 - Febuary 2021)
+- Software Development
+12 week intensive coding bootcamp focused on self-learning, pair programming and teamwork with an emphasis on TDD. Group projects undertaken with an AGILE methodology following XP values.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+## **Experience**
 
-#### Your University / College (start_date to end_date)
+**LINO Restaurant (10/18 - 10/19) Bar Manager
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Overseeing daily operations for a smooth and efficient service
+- Weekly stock count
+- Dealing with customer complaints
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Badminton with friends and family to relieve stress and for fun.
+- Practice Wing Chun to keep a good flow of energy
+- Meditation to help clear the mind, preserve wellbeing and maintain a level head.
+- Play video games to relax and enjoy a bit of competitiveness 
