@@ -20,22 +20,9 @@ A keen ambitious programmer aiming to provide a level head, drive and energy to 
 | [Ecommerce](https://github.com/ZeenLamDev/shop) | A Clothing Ecommerce webapp (Personal Project) | Firebase, React, Redux, SCSS |
 | [Blog](https://github.com/ZeenLamDev/Blog) | A Blog Webapp (CRUD Personal Project) | React, React Hooks |
 
+## Tech Stack
 
-## Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- MongoDB, PSQL, Ruby-On-Rails, ReactJS, Javascript (ES6), ExpressJS, NodeJS, HTML5, CSS3
 
 ## Skills 
 
