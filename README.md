@@ -22,7 +22,7 @@ A keen ambitious programmer aiming to provide a level head, drive and energy to 
 
 ## Tech Stack
 
-- MongoDB, PSQL, Ruby-On-Rails, ReactJS, Javascript (ES6), ExpressJS, NodeJS, HTML5, CSS3
+- JavaScript(ES6), ReactJS, React Hooks, NextJS(Currently Learning), Redux, NodeJS, ExpressJS, MongoDB, GraphQL(Currently Learning), PostgresQL, Ruby, Ruby-On-Rails, HTML5, CSS3, TravisCI, Heroku, Rspec, Jasmine, Jest
 
 ## Skills 
 
